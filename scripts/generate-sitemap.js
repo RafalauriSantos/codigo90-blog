@@ -28,7 +28,7 @@ function generateSitemap() {
 
 	// URLs das páginas principais
 	const pageUrls = pages.map((page) => ({
-		loc: page.slug ? `${BASE_URL}/${page.slug}` : BASE_URL,
+		loc: page.slug ? `${BASE_URL}/${page.slug}/` : `${BASE_URL}/`,
 		lastmod: today,
 		changefreq: "weekly",
 		priority: page.slug === "" ? 1.0 : 0.9,
@@ -36,7 +36,7 @@ function generateSitemap() {
 
 	// URLs dos posts do blog
 	const postUrls = posts.map((post) => ({
-		loc: `${BASE_URL}/blog/${post.slug}`,
+		loc: `${BASE_URL}/blog/${post.slug}/`,
 		lastmod: post.updatedAt || post.publishedAt || today,
 		changefreq: "monthly",
 		priority: post.featured ? 0.9 : 0.8,
