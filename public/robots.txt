@@ -14,7 +14,7 @@ User-agent: *
 Allow: /
 
 # Sitemap location
-Sitemap: https://codigo90.com/sitemap.xml
+Sitemap: https://codigo90-blog.vercel.app/sitemap.xml
 
 # Crawl-delay (optional)
 Crawl-delay: 0
