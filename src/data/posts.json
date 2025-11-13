@@ -1,0 +1,33 @@
+{
+	"posts": [
+		{
+			"slug": "como-aprender-programacao-sozinho",
+			"title": "Como Aprender Programação Sozinho em 2025",
+			"description": "Guia completo para aprender programação do zero, sem gastar nada. Recursos gratuitos, roadmap e dicas práticas.",
+			"author": "Código 90",
+			"publishedAt": "2025-11-13",
+			"updatedAt": "2025-11-13",
+			"category": "Iniciante",
+			"keywords": [
+				"aprender programação",
+				"programação do zero",
+				"programação sozinho",
+				"curso programação gratuito"
+			],
+			"readTime": 15,
+			"featured": true
+		}
+	],
+	"pages": [
+		{
+			"slug": "",
+			"title": "Código 90 - Aprenda Programação do Zero ao Emprego",
+			"description": "Aprenda programação de forma prática e alcance sua independência financeira em 90 dias. Materiais gratuitos e ebook completo."
+		},
+		{
+			"slug": "blog",
+			"title": "Blog - Código 90",
+			"description": "Artigos sobre programação, carreira em tech, linguagens de programação e dicas para programadores iniciantes."
+		}
+	]
+}
