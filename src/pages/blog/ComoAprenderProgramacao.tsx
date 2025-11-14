@@ -626,7 +626,7 @@ const ComoAprenderProgramacao = () => {
 				<li>
 					<strong>Meetup.com + Sympla</strong><br/>
 					• Pesquise: "Python [sua cidade]", "JavaScript meetup"<br/>
-					• VÁ mesmo sendo iniciante! Networking > palestras<br/>
+					• VÁ mesmo sendo iniciante! Networking {'>'} palestras<br/>
 					• Leve cartões de visita (ou QR code do LinkedIn)
 				</li>
 			</ol>
