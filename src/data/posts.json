@@ -1,6 +1,36 @@
 {
 	"posts": [
 		{
+			"slug": "python-vs-javascript",
+			"title": "Python vs JavaScript: Qual Aprender Primeiro em 2025?",
+			"description": "Comparação completa entre Python e JavaScript: salários (R$ 3.800-7.500), 328 mil vagas abertas, curva de aprendizado e casos de uso reais. Descubra qual linguagem maximiza suas chances na carreira tech.",
+			"author": "Código 90",
+			"publishedAt": "2025-11-14",
+			"updatedAt": "2025-11-14",
+			"category": "Iniciante",
+			"keywords": [
+				"python vs javascript",
+				"qual linguagem aprender",
+				"python ou javascript",
+				"primeira linguagem programação",
+				"comparação python javascript",
+				"carreira programação 2025",
+				"linguagem iniciantes",
+				"python para iniciantes",
+				"javascript para iniciantes",
+				"melhor linguagem 2025",
+				"salário programador python",
+				"salário programador javascript",
+				"vagas python brasil",
+				"vagas javascript brasil",
+				"full stack javascript",
+				"ciência de dados python",
+				"desenvolvimento web javascript"
+			],
+			"readTime": 15,
+			"featured": true
+		},
+		{
 			"slug": "como-aprender-programacao-sozinho",
 			"title": "Como Aprender Programação Sozinho: Guia Completo 2025",
 			"description": "Aprenda programação do zero com este guia definitivo: melhores linguagens, recursos gratuitos, rotinas de estudo, preparação para entrevistas e dados reais do mercado brasileiro. 797 mil vagas disponíveis em 2025.",
