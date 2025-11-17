@@ -1,6 +1,52 @@
 {
 	"posts": [
 		{
+			"slug": "melhores-linguagens-programacao-2025",
+			"title": "Melhores Linguagens de Programação para Aprender em 2025",
+			"description": "Ranking completo das linguagens mais demandadas em 2025: JavaScript (186 mil vagas), Python (142 mil), Java (89 mil). Análise de salários, mercado e qual escolher para iniciar sua carreira tech.",
+			"author": "Código 90",
+			"publishedAt": "2025-11-17",
+			"updatedAt": "2025-11-17",
+			"category": "Iniciante",
+			"keywords": [
+				"melhores linguagens programação 2025",
+				"linguagens mais usadas",
+				"ranking linguagens programação",
+				"qual linguagem aprender",
+				"linguagens demandadas mercado",
+				"carreira programação 2025",
+				"linguagens em alta",
+				"aprender programar 2025",
+				"tecnologias programação",
+				"mercado dev brasil"
+			],
+			"readTime": 18,
+			"featured": true
+		},
+		{
+			"slug": "git-github-iniciantes",
+			"title": "Git e GitHub para Iniciantes: Guia Completo 2025",
+			"description": "Aprenda Git e GitHub do zero: 15 comandos essenciais, workflow profissional, resolução de conflitos e como colaborar em projetos. Tutorial prático usado por 96.7% dos desenvolvedores.",
+			"author": "Código 90",
+			"publishedAt": "2025-11-17",
+			"updatedAt": "2025-11-17",
+			"category": "Iniciante",
+			"keywords": [
+				"git para iniciantes",
+				"github tutorial",
+				"aprender git",
+				"comandos git básicos",
+				"controle de versão",
+				"git github diferença",
+				"como usar git",
+				"git workflow",
+				"git e github 2025",
+				"versionamento código"
+			],
+			"readTime": 16,
+			"featured": true
+		},
+		{
 			"slug": "python-vs-javascript",
 			"title": "Python vs JavaScript: Qual Aprender Primeiro em 2025?",
 			"description": "Comparação completa entre Python e JavaScript: salários (R$ 3.800-7.500), 328 mil vagas abertas, curva de aprendizado e casos de uso reais. Descubra qual linguagem maximiza suas chances na carreira tech.",
